@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I'm currently working on WordPress, Shopify, and AI Automation solutions for businesses<br><br>👯 I'm looking to collaborate on web development projects, AI agents, and business automation systems<br><br>🤝 I'm looking for help with scaling my agency, client acquisition, and SaaS product development<br><br>🌱 I'm currently learning AI Agents, Workflow Automation, and Advanced Full-Stack Development<br><br>💬 Ask me about WordPress Development, Shopify Stores, SEO, AI Integrations, and Business Automation<br><br>⚡ Fun fact: I've built websites and automation systems that help businesses save hours of manual work every week
+
+- 🔭 I'm currently working on WordPress, Shopify, and AI Automation solutions for businesses
+- 👯 I'm looking to collaborate on web development projects, AI agents, and business automation systems
+- 🤝 I'm looking for help with scaling my agency, client acquisition, and SaaS product development
+- 🌱 I'm currently learning AI Agents, Workflow Automation, and Advanced Full-Stack Development
+- 💬 Ask me about WordPress Development, Shopify Stores, SEO, AI Integrations, and Business Automation
+- ⚡ Fun fact: I've built websites and automation systems that help businesses save hours of manual work every week
 
 
 ## 🌐 Socials:
