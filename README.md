@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A1128,100:1A2B5C&height=220&text=MUHAMMAD%20HANAN&fontSize=46&fontColor=FF6B35&fontAlignY=38&desc=Founder%20@%20Dezxey%20%E2%80%94%20Be%20The%20Only%20Option&descAlignY=58&descColor=E8ECF4&animation=fadeIn&stroke=FF6B35&strokeWidth=1" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A1128,100:1A2B5C&height=220&text=MUHAMMAD%20HANAN&fontSize=46&fontColor=FF6B35&fontAlignY=35&desc=Founder%20@%20Dezxey%20%E2%80%94%20Be%20The%20Only%20Option&descAlignY=52&descColor=E8ECF4&animation=fadeIn&stroke=FF6B35&strokeWidth=1" width="100%" alt="banner" />
+
+<h3>Solo founder &middot; full-stack delivery</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=FF6B35&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Founder+%C2%B7+Dezxey;%24+stack+%E2%86%92+WordPress+%7C+Shopify+%7C+AI+Automation;%24+building+%E2%86%92+AI+lead-intelligence+tooling;%24+open_to+%E2%86%92+collabs+%7C+automation+work" alt="Typing SVG" />
 
@@ -10,23 +12,27 @@
 <a href="https://instagram.com/hanan.__.gujjar"><img src="https://img.shields.io/badge/Instagram-0A1128?style=for-the-badge&logo=instagram&logoColor=FF6B35" /></a>
 <a href="mailto:muhammadhanan743@gmail.com"><img src="https://img.shields.io/badge/Email-0A1128?style=for-the-badge&logo=gmail&logoColor=FF6B35" /></a>
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A1128&height=2&width=100" width="100%" alt="divider" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1128,100:1A2B5C&height=70&text=FOCUS&fontSize=26&fontColor=FF6B35&fontAlignY=55&animation=fadeIn" width="100%" alt="focus heading" />
+
 </div>
-
-<br/>
-
-### `$ ls ./focus`
 
 > 🔭&nbsp; **right now** — Building WordPress, Shopify &amp; AI automation solutions for client businesses at Dezxey.
 
-> 🌱&nbsp; **learning** — AI agents, workflow automation, and advanced full-stack patterns — daily.
+> 🤖&nbsp; **building** — AI agents for client and internal workflows.
 
 > 🤝&nbsp; **open to** — Web dev collabs, AI agent builds, and business automation projects.
 
 <br/>
 
-### `$ cat stack.txt`
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1128,100:1A2B5C&height=70&text=STACK&fontSize=26&fontColor=FF6B35&fontAlignY=55&animation=fadeIn" width="100%" alt="stack heading" />
+
+<br/><br/>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-0A1128?style=flat-square&logo=html5&logoColor=FF6B35)
 ![CSS3](https://img.shields.io/badge/-CSS3-0A1128?style=flat-square&logo=css3&logoColor=FF6B35)
@@ -48,13 +54,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0A1128?style=flat-square&logo=typescript&logoColor=FF6B35)
 ![Git](https://img.shields.io/badge/-Git-0A1128?style=flat-square&logo=git&logoColor=FF6B35)
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1128,100:1A2B5C&height=70&text=STATS&fontSize=26&fontColor=FF6B35&fontAlignY=55&animation=fadeIn" width="100%" alt="stats heading" />
 
-### `$ ./show-stats.sh`
-
-<div align="center">
+<br/><br/>
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=muhammadhanan743&show_icons=true&hide_border=true&bg_color=0A1128&title_color=FF6B35&icon_color=FF9A5C&text_color=E8ECF4&border_radius=18" alt="stats" />
 
@@ -66,21 +70,15 @@
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=muhammadhanan743&hide_border=true&background=0A1128&ring=FF6B35&fire=FF6B35&currStreakLabel=FF9A5C&sideLabels=C7D0E8&dates=6B7494&border_radius=18" alt="streak" />
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1128,100:1A2B5C&height=70&text=ACTIVITY&fontSize=26&fontColor=FF6B35&fontAlignY=55&animation=fadeIn" width="100%" alt="activity heading" />
 
-### `$ ./activity-graph.sh --last-31-days`
-
-<div align="center">
+<br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhanan743&bg_color=0A1128&color=FF9A5C&line=FF6B35&point=E8ECF4&area=true&area_color=FF6B35&hide_border=true&title_color=FF6B35" alt="activity graph" />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1A2B5C,100:0A1128&height=140&text=Let's%20Build%20Something&fontSize=28&fontColor=FF6B35&fontAlignY=55&animation=fadeIn&stroke=FF6B35&strokeWidth=1&section=footer" width="100%" alt="footer" />
 
