@@ -1,69 +1,18 @@
-<div align="center">
+# 💫 About Me:
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A1128,100:1A2B5C&height=220&text=MUHAMMAD%20HANAN&fontSize=46&fontColor=FF6B35&fontAlignY=35&desc=Founder%20@%20Dezxey%20%E2%80%94%20Be%20The%20Only%20Option&descAlignY=52&descColor=E8ECF4&animation=fadeIn&stroke=FF6B35&strokeWidth=1" width="100%" alt="banner" />
+- 🔭 I'm currently working on WordPress, Shopify, and AI Automation solutions for businesses
+- 👯 I'm looking to collaborate on web development projects, AI agents, and business automation systems
+- 🤝 I'm looking for help with scaling my agency, client acquisition, and SaaS product development
+- 🌱 I'm currently learning AI Agents, Workflow Automation, and Advanced Full-Stack Development
+- 💬 Ask me about WordPress Development, Shopify Stores, SEO, AI Integrations, and Business Automation
+- ⚡ Fun fact: I've built websites and automation systems that help businesses save hours of manual work every week
 
-<h3>Solo founder &middot; full-stack delivery</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=FF6B35&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Founder+%C2%B7+Dezxey;%24+stack+%E2%86%92+WordPress+%7C+Shopify+%7C+AI+Automation;%24+building+%E2%86%92+AI+lead-intelligence+tooling;%24+open_to+%E2%86%92+collabs+%7C+automation+work" alt="Typing SVG" />
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammadhanan01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hanan.__.gujjar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muhammadhanan74) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadhanan743@gmail.com) 
 
-<br/>
+# 💻 Tech Stack:
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
-<a href="https://dezxey.tech"><img src="https://img.shields.io/badge/dezxey.tech-0A1128?style=for-the-badge&logoColor=FF6B35" /></a>
-<a href="https://instagram.com/hanan.__.gujjar"><img src="https://img.shields.io/badge/Instagram-0A1128?style=for-the-badge&logo=instagram&logoColor=FF6B35" /></a>
-<a href="mailto:muhammadhanan743@gmail.com"><img src="https://img.shields.io/badge/Email-0A1128?style=for-the-badge&logo=gmail&logoColor=FF6B35" /></a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A1128&height=2&width=100" width="100%" alt="divider" />
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1128,100:1A2B5C&height=70&text=FOCUS&fontSize=26&fontColor=FF6B35&fontAlignY=55&animation=fadeIn" width="100%" alt="focus heading" />
-
-</div>
-
-> 🔭&nbsp; **right now** — Building WordPress, Shopify &amp; AI automation solutions for client businesses at Dezxey.
-
-> 🤖&nbsp; **building** — AI agents for client and internal workflows.
-
-> 🤝&nbsp; **open to** — Web dev collabs, AI agent builds, and business automation projects.
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1128,100:1A2B5C&height=70&text=STACK&fontSize=26&fontColor=FF6B35&fontAlignY=55&animation=fadeIn" width="100%" alt="stack heading" />
-
-<br/><br/>
-
-![HTML5](https://img.shields.io/badge/-HTML5-0A1128?style=flat-square&logo=html5&logoColor=FF6B35)
-![CSS3](https://img.shields.io/badge/-CSS3-0A1128?style=flat-square&logo=css3&logoColor=FF6B35)
-![Tailwind](https://img.shields.io/badge/-Tailwind-0A1128?style=flat-square&logo=tailwind-css&logoColor=FF6B35)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0A1128?style=flat-square&logo=bootstrap&logoColor=FF6B35)
-![Sass](https://img.shields.io/badge/-Sass-0A1128?style=flat-square&logo=sass&logoColor=FF6B35)
-
-![Node](https://img.shields.io/badge/-Node.js-0A1128?style=flat-square&logo=node.js&logoColor=FF6B35)
-![Python](https://img.shields.io/badge/-Python-0A1128?style=flat-square&logo=python&logoColor=FF6B35)
-![FastAPI](https://img.shields.io/badge/-FastAPI-0A1128?style=flat-square&logo=fastapi&logoColor=FF6B35)
-![MySQL](https://img.shields.io/badge/-MySQL-0A1128?style=flat-square&logo=mysql&logoColor=FF6B35)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0A1128?style=flat-square&logo=mongodb&logoColor=FF6B35)
-
-![WordPress](https://img.shields.io/badge/-WordPress-0A1128?style=flat-square&logo=wordpress&logoColor=FF6B35)
-![Shopify](https://img.shields.io/badge/-Shopify-0A1128?style=flat-square&logo=shopify&logoColor=FF6B35)
-![n8n](https://img.shields.io/badge/-n8n-0A1128?style=flat-square&logo=n8n&logoColor=FF6B35)
-![Docker](https://img.shields.io/badge/-Docker-0A1128?style=flat-square&logo=docker&logoColor=FF6B35)
-![GCloud](https://img.shields.io/badge/-Google%20Cloud-0A1128?style=flat-square&logo=google-cloud&logoColor=FF6B35)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0A1128?style=flat-square&logo=typescript&logoColor=FF6B35)
-![Git](https://img.shields.io/badge/-Git-0A1128?style=flat-square&logo=git&logoColor=FF6B35)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1128,100:1A2B5C&height=70&text=ACTIVITY&fontSize=26&fontColor=FF6B35&fontAlignY=55&animation=fadeIn" width="100%" alt="activity heading" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhanan743&bg_color=0A1128&color=FF9A5C&line=FF6B35&point=E8ECF4&area=true&area_color=FF6B35&hide_border=true&title_color=FF6B35" alt="activity graph" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1A2B5C,100:0A1128&height=140&text=Let's%20Build%20Something&fontSize=28&fontColor=FF6B35&fontAlignY=55&animation=fadeIn&stroke=FF6B35&strokeWidth=1&section=footer" width="100%" alt="footer" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
