@@ -32,6 +32,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1128,100:1A2B5C&height=70&text=STACK&fontSize=26&fontColor=FF6B35&fontAlignY=55&animation=fadeIn" width="100%" alt="stack heading" />
 
+<br/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhanan743&layout=compact&hide_border=true&bg_color=0A1128&title_color=FF6B35&text_color=E8ECF4&border_radius=18" alt="top langs" />
+
+<br/>
+
 <br/><br/>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-0A1128?style=flat-square&logo=html5&logoColor=FF6B35)
@@ -58,17 +64,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1128,100:1A2B5C&height=70&text=STATS&fontSize=26&fontColor=FF6B35&fontAlignY=55&animation=fadeIn" width="100%" alt="stats heading" />
 
+<br/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhanan743&layout=compact&hide_border=true&bg_color=0A1128&title_color=FF6B35&text_color=E8ECF4&border_radius=18" alt="top langs" />
+
+<br/>
+
 <br/><br/>
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=muhammadhanan743&show_icons=true&hide_border=true&bg_color=0A1128&title_color=FF6B35&icon_color=FF9A5C&text_color=E8ECF4&border_radius=18" alt="stats" />
 
 
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=muhammadhanan743&hide_border=true&background=0A1128&ring=FF6B35&fire=FF6B35&currStreakLabel=FF9A5C&sideLabels=C7D0E8&dates=6B7494&border_radius=18" alt="streak" />
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1128,100:1A2B5C&height=70&text=ACTIVITY&fontSize=26&fontColor=FF6B35&fontAlignY=55&animation=fadeIn" width="100%" alt="activity heading" />
 
 <br/><br/>
 
