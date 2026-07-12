@@ -68,8 +68,8 @@ Solo-founder engineer who ships end-to-end: from LLM-backed backend logic, to Ch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadhanan743)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Dezxey.tech-FF6A2A?style=for-the-badge&logo=firefox&logoColor=white)](https://dezxey.tech)
 [![Email](https://img.shields.io/badge/Email-hello%40dezxey.tech-8A5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@dezxey.tech)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/muhammadhanan743)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dezxey.tech)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/muhammadhanan74)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/honeytechh/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/muhammadhanan743)
 [![Book a Call](https://img.shields.io/badge/Book%20a%20Call-Calendly-00A2FF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/muhammadhanan7433/30min)
 
@@ -382,10 +382,6 @@ ai-saas-platform/
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhanan743&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F1A&title_color=3AA0FF&text_color=C9D1D9" width="40%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhanan743&theme=tokyo-night&hide_border=true&bg_color=0B0F1A&color=3AA0FF&line=FF6A2A&point=8A5CF6" width="58%"/>
-
-<br/>
-
-![Productive Time](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadhanan743&theme=tokyonight&hide_border=true&bg_color=0B0F1A&title_color=3AA0FF&text_color=C9D1D9&layout=compact)
 
 </div>
 
