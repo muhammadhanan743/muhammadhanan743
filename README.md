@@ -45,16 +45,7 @@ mission: >
   engineering that is fast, precise, and built to scale.
 ```
 
-</td>
-<td width="40%" valign="top">
 
-**🎯 Career Objective**
-Architecting AI-native products and automation systems that replace manual workflows with intelligent, self-operating pipelines — for my own venture and for clients worldwide.
-
-**🧭 Professional Summary**
-Solo-founder engineer who ships end-to-end: from LLM-backed backend logic, to Chrome extensions, to full production SaaS dashboards and client-facing brand systems.
-
-</td>
 </tr>
 </table>
 
